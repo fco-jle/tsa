@@ -118,3 +118,4 @@ if __name__ == '__main__':
     tsa.autocorrelation_plot(col)
     tsa.acf_plot(col, lags=40)
     tsa.pacf_plot(col, lags=40)
+
